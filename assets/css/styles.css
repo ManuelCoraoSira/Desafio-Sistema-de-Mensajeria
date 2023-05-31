@@ -28,7 +28,6 @@ body {
     display: flex;
     align-items: center;
     gap: 10px;
-    line-height: 1px;
 }
 
 .info img {
@@ -47,11 +46,13 @@ body {
     font-weight: 700;
     color: black;
     font-family: 'Roboto';
+    margin: 0;
 }
 
 .status {
     color: #828485;
     font-family: 'Open Sans';
+    margin: 0;
 }
 
 .icon {
@@ -99,6 +100,5 @@ body {
 .titulo {
     font-size: 45px;
     font-weight: 700;
+    margin: 30px;
 }
-
-
